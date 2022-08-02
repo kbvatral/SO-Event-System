@@ -1,0 +1,23 @@
+{
+  "name": "com.nat1wizard.eventsystem",
+  "version": "1.0.0",
+  "displayName": "Nat1Wizard Event System",
+  "description": "A simple scriptable object based event system to handle passing messages across scenes.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+ "keywords": [
+    "Event System",
+    "Events",
+    "Messages",
+    "Scriptable Object"
+  ],
+  "author": {
+    "name": "Caleb Vatral",
+    "email": "caleb.m.vatral@vanderbilt.edu",
+    "url": "https://www.vatral.net"
+  },
+    "repository": {
+    "url": "https://github.com/kbvatral/SO-Event-System",
+    "type": "git"
+  }
+}
